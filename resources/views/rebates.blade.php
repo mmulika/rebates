@@ -155,7 +155,7 @@ body{
 
                   <div class="form-group row">
                     <label class="col-sm-4 col-lg-4">
-                        Sahl Health Number
+                        Member Number
                     </label>
                     <div class="col-sm-8 col-lg-8">
                         <input type="text"id="patient-name"class="form-control"
@@ -167,7 +167,7 @@ body{
 
                   <div class="form-group row">
                     <label class="col-sm-4 col-lg-4">
-                        Service cartegory
+                        SERVICES 
                     </label>
                     <div class="col-sm-8 col-lg-8">
                         <input type="tel"id="contact"class="form-control"
@@ -199,7 +199,7 @@ body{
                 <!---->
                 <div class="form-group row">
                     <label class="col-sm-4 col-lg-4">
-                       bid
+                       Request  additional funds
                     </label>
                     <div class="col-sm-8 col-lg-8">
                         <textarea id="symptoms" class="form-control" required></textarea>
@@ -208,9 +208,9 @@ body{
                 <!---->
                 <div class="form-group row justify-content-end">
                     <div class="col-sm-5">
-                        <button type="submit"class="btn btn-form">
+                       <!-- <button type="submit"class="btn btn-form">
                             Confirm
-                        </button>
+                        </button>-->
                     </div>
                 </div>
 

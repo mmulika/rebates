@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class rebates extends Model
 {
     use HasFactory;
-
+p
     public static function  search($search)
 
     {
