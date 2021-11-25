@@ -18,6 +18,8 @@ class CreateCheckoutsTable extends Migration
             $table->timestamps();
             $table->string('name');
             $table->string('email');
+            $table-> string('country');
+            $table ->string('phone number');
 
 
         });
