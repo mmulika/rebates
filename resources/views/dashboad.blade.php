@@ -6,7 +6,7 @@
   
     <!-- Overlay content -->
     <div class="overlay-content">
-      <a href="visit" class="{{ request()->is('visit') ? 'active': ''}}">Visits</a>   
+      <a href="visit" class="{{ request()->is('visit') ? 'active': ''}}">Visit</a>   
        <a href="rebate" class="{{ request()->is('rebates') ? 'active': ''}}">rebates</a>
       <
       <a href="specialist" class="{{ request()->is('specialist') }}">Specialist</a>
