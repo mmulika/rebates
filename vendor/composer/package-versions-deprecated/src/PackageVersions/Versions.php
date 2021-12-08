@@ -63,10 +63,10 @@ final class Versions
   'jamesmills/laravel-timezone' => '1.10.0@799265de4972c0c8da085b1adf475a0d9205c0a2',
   'justinrainbow/json-schema' => '5.2.11@2ab6744b7296ded80f8cc4f9509abbff393399aa',
   'konekt/menu' => '1.8.2@a825d9a5068d5e9ea7ecc7ec0c7120dc14c531d0',
-  'laravel/framework' => 'v8.74.0@004ea195012d5132eca07a176a6e587c6a74815e',
+  'laravel/framework' => 'v8.75.0@0bb91d3176357da232da69762a64b0e0a0988637',
   'laravel/sanctum' => 'v2.12.2@76b2d552c00477d520338889160f80a0cfb5fc55',
   'laravel/serializable-closure' => 'v1.0.5@25de3be1bca1b17d52ff0dc02b646c667ac7266c',
-  'laravel/tinker' => 'v2.6.2@c808a7227f97ecfd9219fbf913bad842ea854ddc',
+  'laravel/tinker' => 'v2.6.3@a9ddee4761ec8453c584e393b393caff189a3e42',
   'league/commonmark' => '2.1.0@819276bc54e83c160617d3ac0a436c239e479928',
   'league/config' => 'v1.1.1@a9d39eeeb6cc49d10a6e6c36f22c4c1f4a767f3e',
   'league/flysystem' => '1.1.8@c995bb0c23c58c9813d081f9523c9b7bb496698e',
@@ -139,7 +139,7 @@ final class Versions
   'fakerphp/faker' => 'v1.17.0@b85e9d44eae8c52cca7aa0939483611f7232b669',
   'filp/whoops' => '2.14.4@f056f1fe935d9ed86e698905a957334029899895',
   'hamcrest/hamcrest-php' => 'v2.0.1@8c3d0a3f6af734494ad8f6fbbee0ba92422859f3',
-  'laravel/sail' => 'v1.12.9@81609c1c8ce069aa6c3613ccb843cdec299424be',
+  'laravel/sail' => 'v1.12.10@9d5000703c7f811588a780b9aab91cca5c336319',
   'mockery/mockery' => '1.4.4@e01123a0e847d52d186c5eb4b9bf58b0c6d00346',
   'myclabs/deep-copy' => '1.10.2@776f831124e9c62e1a2c601ecc52e776d8bb7220',
   'nunomaduro/collision' => 'v5.10.0@3004cfa49c022183395eabc6d0e5207dfe498d00',
@@ -170,7 +170,7 @@ final class Versions
   'sebastian/type' => '2.3.4@b8cd8a1c753c90bc1a0f5372170e3e489136f914',
   'sebastian/version' => '3.0.2@c6c1022351a901512170118436c764e473f6de8c',
   'theseer/tokenizer' => '1.2.1@34a41e998c2183e22995f158c581e7b5e755ab9e',
-  'laravel/laravel' => 'dev-main@1c121251de3ffedb2ab1a9d41002521800d50190',
+  'laravel/laravel' => 'dev-main@c38325aba6c9299117505c141916e07f9ef7b23b',
 );
 
     private function __construct()
