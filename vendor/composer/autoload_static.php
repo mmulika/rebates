@@ -196,6 +196,7 @@ class ComposerStaticInitf2a01accd2e06b6ec8aa4832d8d0cc31
             'Composer\\XdebugHandler\\' => 23,
             'Composer\\Spdx\\' => 14,
             'Composer\\Semver\\' => 16,
+            'Composer\\Pcre\\' => 14,
             'Composer\\MetadataMinifier\\' => 26,
             'Composer\\CaBundle\\' => 18,
             'Composer\\' => 9,
@@ -611,6 +612,10 @@ class ComposerStaticInitf2a01accd2e06b6ec8aa4832d8d0cc31
         array (
             0 => __DIR__ . '/..' . '/composer/semver/src',
         ),
+        'Composer\\Pcre\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/composer/pcre/src',
+        ),
         'Composer\\MetadataMinifier\\' => 
         array (
             0 => __DIR__ . '/..' . '/composer/metadata-minifier/src',
@@ -1022,6 +1027,14 @@ class ComposerStaticInitf2a01accd2e06b6ec8aa4832d8d0cc31
         'Composer\\Package\\Version\\VersionGuesser' => __DIR__ . '/..' . '/composer/composer/src/Composer/Package/Version/VersionGuesser.php',
         'Composer\\Package\\Version\\VersionParser' => __DIR__ . '/..' . '/composer/composer/src/Composer/Package/Version/VersionParser.php',
         'Composer\\Package\\Version\\VersionSelector' => __DIR__ . '/..' . '/composer/composer/src/Composer/Package/Version/VersionSelector.php',
+        'Composer\\Pcre\\MatchAllResult' => __DIR__ . '/..' . '/composer/pcre/src/MatchAllResult.php',
+        'Composer\\Pcre\\MatchAllWithOffsetsResult' => __DIR__ . '/..' . '/composer/pcre/src/MatchAllWithOffsetsResult.php',
+        'Composer\\Pcre\\MatchResult' => __DIR__ . '/..' . '/composer/pcre/src/MatchResult.php',
+        'Composer\\Pcre\\MatchWithOffsetsResult' => __DIR__ . '/..' . '/composer/pcre/src/MatchWithOffsetsResult.php',
+        'Composer\\Pcre\\PcreException' => __DIR__ . '/..' . '/composer/pcre/src/PcreException.php',
+        'Composer\\Pcre\\Preg' => __DIR__ . '/..' . '/composer/pcre/src/Preg.php',
+        'Composer\\Pcre\\Regex' => __DIR__ . '/..' . '/composer/pcre/src/Regex.php',
+        'Composer\\Pcre\\ReplaceResult' => __DIR__ . '/..' . '/composer/pcre/src/ReplaceResult.php',
         'Composer\\Platform\\HhvmDetector' => __DIR__ . '/..' . '/composer/composer/src/Composer/Platform/HhvmDetector.php',
         'Composer\\Platform\\Runtime' => __DIR__ . '/..' . '/composer/composer/src/Composer/Platform/Runtime.php',
         'Composer\\Platform\\Version' => __DIR__ . '/..' . '/composer/composer/src/Composer/Platform/Version.php',
